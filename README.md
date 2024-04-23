@@ -1,2 +1,2 @@
 # NLP
-Projet NLP vu pendant les cours
+Tout les différent projet et TP vu en cours de NLP
